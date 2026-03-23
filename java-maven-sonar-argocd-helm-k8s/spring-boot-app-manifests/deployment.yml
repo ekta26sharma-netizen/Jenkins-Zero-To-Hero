@@ -17,6 +17,6 @@ spec:
       containers:
       - name: spring-boot-app
         # CHANGED: Use your verified image and tag
-        image: ektavamika/ultimate-cicd:2 
+        image: ektavamika/ultimate-cicd:3
         ports:
         - containerPort: 8080
